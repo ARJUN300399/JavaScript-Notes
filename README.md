@@ -12,7 +12,7 @@ JavaScript is a syncronous single threaded programming language.
 
 "Everything in JavaScript happens inside a execution context"
 
-Inside execution context there two things 
+Inside execution context there are two things 
 - Memory component
 - Code component
 
