@@ -13,8 +13,8 @@ JavaScript is a syncronous single threaded programming language.
 "Everything in JavaScript happens inside a execution context"
 
 Inside execution context there are two things 
-- Memory component
-- Code component
+1. Memory component
+2. Code component
 
 - In memory component variable and functions values can be stored in a  key value format.
 - Code component is a place where whole JavaScript code is executed
