@@ -10,7 +10,7 @@ These notes are created by ARJUN300399. Reference - Akshay Saini's youtube play 
 ## What is JavaScript?
 JavaScript is a syncronous single threaded programming language.
 
-"Everything in JavaScript happens inside a execution context"
+"Everything in JavaScript happens inside an execution context"
 
 Inside execution context there are two things 
 1. Memory component
